@@ -1,7 +1,7 @@
 {
   "name": "element",
   "title": "Element",
-  "selector": ".theme--element",
+  "selector": ".theme--default",
   "resolve": [
     "./src/theme/index.css",
     "./src/theme/extend.css"
