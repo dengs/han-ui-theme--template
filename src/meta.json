@@ -1,0 +1,11 @@
+{
+  "name": "element",
+  "title": "Element",
+  "selector": ".theme--element",
+  "resolve": [
+    "./src/theme/index.css",
+    "./src/theme/extend.css"
+  ],
+  "dest": "./lib/theme",
+  "assets": "./src/theme/fonts"
+}

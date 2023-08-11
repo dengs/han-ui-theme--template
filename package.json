@@ -1,0 +1,23 @@
+{
+  "name": "@hanzhisoft/han-ui-theme-element",
+  "version": "2.0.0-beta",
+  "description": "Han-UI 主题包【Element】 @hanzhisoft/han-ui-theme-element",
+  "author": {
+    "name": "dengs",
+    "email": "ds@hanzhisoft.com",
+    "url": "https://www.hanzhigroup.cn"
+  },
+  "main": "lib/index.js",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "http://microdev.realty.hanzhigroup.cn:9024/Hanzhisoft-FE/han-ui-theme-element.git"
+  },
+  "publishConfig": {
+    "registry": "http://microdev.realty.hanzhigroup.cn:9072/repository/npm-hosted/"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

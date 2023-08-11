@@ -1,0 +1,7 @@
+src
+.vscode
+.babelrc
+.prettierrc.js
+webpack.config.js
+
+*.log
