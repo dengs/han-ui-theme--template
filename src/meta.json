@@ -7,5 +7,8 @@
     "./src/theme/extend.css"
   ],
   "dest": "./lib/theme",
-  "assets": "./src/theme/fonts"
+  "assets": [
+    "./src/theme/fonts",
+    "./src/theme/style-vars.js"
+  ]
 }
