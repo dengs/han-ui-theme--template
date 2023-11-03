@@ -7,7 +7,7 @@
     "email": "ds@hanzhisoft.com",
     "url": "https://www.hanzhigroup.cn"
   },
-  "main": "lib/theme/index.js",
+  "main": "lib/index.js",
   "keywords": [],
   "license": "ISC",
   "scripts": {},

@@ -1,0 +1,8 @@
+{
+  "--background-color-base": "#F5F7FA",
+  "--background-color-main": "#eaebf0",
+  "--background-color-white": "#ffffff",
+  "--background-color-black": "#000000",
+  "--box-shadow-base": "0 2px 4px rgba(0, 0, 0, .12), 0 0 6px rgba(0, 0, 0, .04)",
+  "--box-shadow-tint": "0 2px 12px 0 rgba(0, 0, 0, 0.1)"
+}

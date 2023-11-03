@@ -1,14 +1,11 @@
 {
   "name": "element",
   "title": "Element",
-  "selector": ".theme--default",
-  "resolve": [
-    "./src/theme/index.css",
-    "./src/theme/extend.css"
-  ],
-  "dest": "./lib/theme",
-  "assets": [
-    "./src/theme/fonts",
-    "./src/theme/style-vars.js"
-  ]
+  "selector": ".theme--element",
+  "resolve": ["./src/theme/index.css", "./src/theme/extend.scss"],
+  "dest": "./lib",
+  "config": "./src/config.json",
+  "mainStyle": "./src/theme/index.css",
+  "vars": "./src/theme/vars.json",
+  "assets": ["./src/meta.json", "./src/theme/fonts", "./src/theme/style-vars.js"]
 }
